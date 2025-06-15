@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="AppName">Telegram</string>
-    <string name="AppNameBeta">Telegram Beta</string>
+    <string name="AppName">CardGram</string>
+    <string name="AppNameBeta">CardGram Beta</string>
     <string name="LanguageName">English</string>
     <string name="English">English</string>
     <string name="LanguageNameInEnglish">English</string>
@@ -1898,6 +1898,7 @@
     <string name="DeletedFromYourContacts">%s deleted from your contacts</string>
     <!--usernames-->
     <string name="Username">Username</string>
+    <string name="UserID">ID</string>
     <string name="UsernameAlso">also %1$s</string>
     <string name="UsernameLinkPlaceholder">username</string>
     <string name="UsernameInUse">Sorry, this username is already taken.</string>
